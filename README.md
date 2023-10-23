@@ -1,3 +1,4 @@
-# advaitkasturi-s-demo
-first repository {sample}
-author-Advaitkasturi
+# Advaitkasturi-s-demo
+First repository {sample}
+<br/>
+Author-Advaitkasturi
